@@ -12,32 +12,49 @@
 
 ---
 
-Spent a decade in credit risk at a factoring company before teaching myself statistics and ML to automate the job. Co-founded a fintech. Now CTO at bee6, building AI-powered data systems for businesses that can't afford to guess.
+## Who I am
 
-Father of an autistic child — which is why I also build [una-edu](https://github.com/Guicicca90/una-edu): an AI platform that generates fully personalized learning materials for autistic students, anchored in their hyperfocus themes.
+I spent 6 years doing credit risk analysis at a factoring company. It was manual, repetitive work — prospecting clients, evaluating receivables, assessing default risk from gut feeling and spreadsheets. I got bored. I knew the job could be automated. So in 2019 I co-founded **Duplify** with two friends to rebuild the entire factoring system from scratch.
+
+That's when I started programming. 2020 — first line of Python, first ML model. I taught myself statistics, linear algebra, and machine learning to build a credit scoring system on top of CNPJ and receivables data using XGBoost and Random Forest. The system worked. Getting clients was the hard part.
+
+In 2022, while studying time series and ML with a post-doctoral researcher from Unicamp, I showed him my credit risk project. He liked it enough to offer me a Master's position. I didn't take it — bureaucracy got in the way — but the recognition mattered.
+
+In 2023, I co-founded **bee6** with four partners. We took on everything: real estate software, e-commerce, agricultural AI, restaurant analytics. Most of it failed. What survived: a restaurant analytics pipeline for a Brazilian restaurant in New York (Berimbau), a law firm RAG system, and an e-commerce client. Not the exits we wanted, but we learned to ship.
+
+I am also the father of an autistic child. That's why I built [una-edu](https://github.com/Guicicca90/una-edu) — an AI system that generates personalized educational materials for autistic students, anchored in their hyperfocus themes.
 
 ---
 
-### What I build
+## What I build
 
 | Project | Stack | About |
 |---------|-------|-------|
-| [bquant](https://github.com/Guicicca90/bquant) | Python · statsmodels · BigQuery | Quantitative toolkit — ADF/KPSS stationarity tests, ARIMA, ARCH-LM volatility, macro indicators pipeline (Selic, IPCA, FipeZAP), B3/CVM data ingestion, KD-Tree spatial joins |
-| [urban-space](https://github.com/Guicicca90/urban-space) | Python · scikit-learn · GeoSampa | Real estate ML — KNN property matching engine, multilevel pricing model, geospatial terrain scouting with PCA, lead mining from IPTU public records |
-| [solo-inteligente](https://github.com/Guicicca90/solo-inteligente) | Python · FAISS · LLM | Agricultural intelligence — FAISS vector store over INCRA/CAR/SIGEF documents, hybrid dense+sparse retrieval for rural property queries |
-| [una-edu](https://github.com/Guicicca90/una-edu) *(private)* | Python · OpenAI · FastAPI | Multi-agent pipeline generating ASD-adapted educational materials — Researcher + Adapter + Art Director + HTML Renderer, deployed on Cloud Run |
+| [bquant](https://github.com/Guicicca90/bquant) | Python · statsmodels · BigQuery | Quantitative research toolkit — ADF/KPSS stationarity, ARIMA, ARCH-LM, FipeZAP/Selic/IPCA pipelines, B3/CVM data ingestion, KD-Tree spatial joins for urban data |
+| [urban-space](https://github.com/Guicicca90/urban-space) | Python · scikit-learn · GeoSampa | Real estate ML — KNN property matching engine, multilevel pricing model integrating IPTU + RAIS + 10 macro indicators, geospatial terrain scouting with PCA over 11M+ parcels |
+| [solo-inteligente](https://github.com/Guicicca90/solo-inteligente) | Python · FAISS · LLM | Agricultural intelligence — automates the "perdigueiro" (manual land scout) process; FAISS vector store over INCRA/CAR/SIGEF documents, hybrid dense+sparse retrieval |
+| [una-edu](https://github.com/Guicicca90/una-edu) *(private)* | Python · OpenAI · FastAPI · GCP | Multi-agent pipeline: Researcher → Adapter (ASD rules) → Art Director → HTML Renderer. Generates print-ready A4 learning materials personalized by grade, hyperfocus, and cognitive profile |
 
 ---
 
-### Background
+## Background
 
-- **2013–2019** — Risk & credit analyst at Cicor Factoring. Manual underwriting, spreadsheets. Taught myself Python and statistics to automate what was taking 8 hours a day.
-- **2019–2023** — Co-founded Duplify. Built DupliNet from scratch: automated factoring platform with XGBoost/Random Forest credit scoring on CNPJ and receivables data. First real ML in production.
-- **2023–present** — CTO at [bee6](https://bee6.com.br). Full data architecture: ETL pipelines, BigQuery warehouses, AI agents, client-facing dashboards.
+**2013–2019 — Cicor Factoring**
+Credit risk analyst. Prospecting, receivables evaluation, default scoring. All manual. Built statistical intuition from years of watching patterns in financial data that nobody was modeling properly.
+
+**2019–2023 — Duplify (co-founder)**
+Rebuilt the factoring management system from scratch. Automated the entire workflow — receivables import, payment requests, credit scoring, portfolio monitoring. Deployed XGBoost/Random Forest models for credit risk on CNPJ data. First ML in production. Offered a Master's position at Unicamp based on the credit risk project — declined due to bureaucracy, not merit.
+
+**2023–present — bee6 (CTO & Data Scientist)**
+Built and shipped:
+- Restaurant analytics pipeline integrating Toast POS, MarginEdge, ADP payroll, and Resy reservations for Berimbau Brazilian Table (NYC)
+- RAG system for a law firm (Maxsuel & Rodrigues) — document intelligence over PDFs, audio, video, and spreadsheets
+- Real estate ML system for a broker (Bid Brokers) — KNN matching + pricing model
+- Agricultural terrain scouting AI for São Paulo's 2023 urban densification plan
 
 ---
 
-### Stack
+## Stack
 
 <div align="center">
 
@@ -56,7 +73,7 @@ Father of an autistic child — which is why I also build [una-edu](https://gith
 
 ---
 
-### Stats
+## Stats
 
 <div align="center">
 
@@ -79,11 +96,12 @@ Father of an autistic child — which is why I also build [una-edu](https://gith
 
 ---
 
-### Education
+## Education
 
-**USP** — Bachelor's in Social Sciences (in progress)
-Applied statistics, sampling methodology, and quantitative research on urban inequality.
-Ran fieldwork for Professor Gustavo Venturi's social impact studies — where statistical thinking started, before it moved into finance and ML.
+**USP** — Bachelor's in Social Sciences (in progress, FFLCH)
+Quantitative methods, sampling design, and fieldwork for socioeconomic research.
+Co-founded the Social Research Junior Institute — ran surveys and data collection for Professor Gustavo Venturi's social impact studies.
+The statistical foundation that later moved into finance, econometrics, and ML.
 
 ---
 
