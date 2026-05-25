@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Guilherme%20Ciccarelli&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%26%20AI%20Systems%20Builder%20%E2%80%94%20S%C3%A3o%20Paulo&descAlignY=60&descColor=8b949e" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Turning+messy+data+into+decisions.;Building+AI+that+works+for+real+people.;From+credit+risk+to+AI+agents+%E2%80%94+12+years+in+the+data.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Turning+messy+data+into+decisions.;Building+AI+that+works+for+real+people.;From+credit+risk+to+AI+agents+%E2%80%94+12+years+in+the+data.)](https://github.com/Guicicca90)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Guicicca90&color=58a6ff&style=flat-square&label=profile+views)
 
@@ -88,14 +88,26 @@ Rebuilt the entire factoring management system from zero — receivables import,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Guicicca90&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=58a6ff&title_color=58a6ff&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guicicca90&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&langs_count=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guicicca90&theme=github_dark" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guicicca90&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guicicca90&theme=github_dark" />
 
 </div>
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guicicca90&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Guicicca90&theme=github-compact&hide_border=true&color=58a6ff&line=58a6ff&point=58a6ff" width="100%" />
 
 </div>
 
