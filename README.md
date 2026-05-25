@@ -14,43 +14,54 @@
 
 ## Who I am
 
-I spent 6 years doing credit risk analysis at a factoring company. It was manual, repetitive work — prospecting clients, evaluating receivables, assessing default risk from gut feeling and spreadsheets. I got bored. I knew the job could be automated. So in 2019 I co-founded **Duplify** with two friends to rebuild the entire factoring system from scratch.
+I spent 6 years doing credit risk analysis at a factoring company. Manual work — prospecting clients, evaluating receivables, assessing default risk from gut feeling and spreadsheets. I got bored. I knew the job could be automated. So in 2019 I co-founded **Duplify** with two friends to rebuild the entire factoring system from scratch.
 
-That's when I started programming. 2020 — first line of Python, first ML model. I taught myself statistics, linear algebra, and machine learning to build a credit scoring system on top of CNPJ and receivables data using XGBoost and Random Forest. The system worked. Getting clients was the hard part.
+That's when I started programming. 2020 — first line of Python, first ML model. I taught myself statistics, linear algebra, and machine learning to build a credit scoring system on CNPJ and receivables data using XGBoost, Random Forest, survival analysis (Kaplan-Meier, Cox proportional hazard), and rule-based scoring (ACIUM rules engine). The system worked. Getting clients was the hard part.
 
-In 2022, while studying time series and ML with a post-doctoral researcher from Unicamp, I showed him my credit risk project. He liked it enough to offer me a Master's position. I didn't take it — bureaucracy got in the way — but the recognition mattered.
+In 2022, while studying time series and ML with a post-doctoral researcher at Unicamp, I showed him the credit risk project. He liked it enough to offer me a Master's position. I didn't take it — bureaucracy got in the way — but the recognition confirmed I was on the right track.
 
-In 2023, I co-founded **bee6** with four partners. We took on everything: real estate software, e-commerce, agricultural AI, restaurant analytics. Most of it failed. What survived: a restaurant analytics pipeline for a Brazilian restaurant in New York (Berimbau), a law firm RAG system, and an e-commerce client. Not the exits we wanted, but we learned to ship.
+In 2023, I co-founded **bee6** with four partners. We shipped real estate ML, agricultural AI, restaurant analytics, and document intelligence systems for clients across Brazil and the US. Most experiments failed. What survived is what you'll find in the repos below.
 
-I am also the father of an autistic child. That's why I built [una-edu](https://github.com/Guicicca90/una-edu) — an AI system that generates personalized educational materials for autistic students, anchored in their hyperfocus themes.
+I am also the father of an autistic child — which is why I built [una-edu](https://github.com/Guicicca90/una-edu): an AI that generates fully personalized educational materials for autistic students, anchored in their hyperfocus themes.
 
 ---
 
-## What I build
+## Projects
+
+### Open source
 
 | Project | Stack | About |
 |---------|-------|-------|
-| [bquant](https://github.com/Guicicca90/bquant) | Python · statsmodels · BigQuery | Quantitative research toolkit — ADF/KPSS stationarity, ARIMA, ARCH-LM, FipeZAP/Selic/IPCA pipelines, B3/CVM data ingestion, KD-Tree spatial joins for urban data |
-| [urban-space](https://github.com/Guicicca90/urban-space) | Python · scikit-learn · GeoSampa | Real estate ML — KNN property matching engine, multilevel pricing model integrating IPTU + RAIS + 10 macro indicators, geospatial terrain scouting with PCA over 11M+ parcels |
-| [solo-inteligente](https://github.com/Guicicca90/solo-inteligente) | Python · FAISS · LLM | Agricultural intelligence — automates the "perdigueiro" (manual land scout) process; FAISS vector store over INCRA/CAR/SIGEF documents, hybrid dense+sparse retrieval |
-| [una-edu](https://github.com/Guicicca90/una-edu) *(private)* | Python · OpenAI · FastAPI · GCP | Multi-agent pipeline: Researcher → Adapter (ASD rules) → Art Director → HTML Renderer. Generates print-ready A4 learning materials personalized by grade, hyperfocus, and cognitive profile |
+| [bquant](https://github.com/Guicicca90/bquant) | Python · statsmodels · BigQuery | Quantitative research toolkit — ADF/KPSS stationarity, ARIMA, ARCH-LM volatility, FipeZAP/Selic/IPCA macro pipelines, B3/CVM data ingestion, KD-Tree spatial joins |
+| [urban-space](https://github.com/Guicicca90/urban-space) | Python · scikit-learn · GeoSampa | Real estate ML — KNN property matching engine, multilevel pricing model integrating IPTU + RAIS + 10 macro indicators, PCA terrain scouting over 11M+ São Paulo parcels, IPTU lead mining |
+| [solo-inteligente](https://github.com/Guicicca90/solo-inteligente) | Python · FAISS · LLM | Agricultural AI — automates the "perdigueiro" (manual land scout) process for São Paulo's 2023 densification plan; FAISS vector store over INCRA/CAR/SIGEF documents |
+
+### Client & private work
+
+| Project | Stack | About |
+|---------|-------|-------|
+| risco-credito-ml | Python · XGBoost · survival analysis | Credit risk engine for Cicor Factoring — ACIUM rule-based scoring, Kaplan-Meier survival curves, Cox proportional hazard model for default probability on Brazilian CNPJ data |
+| berimbau-analytics | Python · BigQuery · Toast · ADP | Full analytics pipeline for Berimbau Brazilian Table (NYC) — integrates Toast POS, MarginEdge food costs, ADP payroll, and Resy reservations into a unified data warehouse |
+| maxsuel-rag | Python · Whisper · FAISS · OpenAI | Document intelligence for a law firm — ingests PDFs, audio, video, spreadsheets; transcribes with Whisper; builds RAG pipeline for querying the full document base and generating legal filings |
+| una-edu | Python · OpenAI · FastAPI · GCP | Multi-agent pipeline for autistic students: Researcher → Neuro-educational Adapter → Art Director → HTML Renderer. Print-ready A4 materials personalized by grade, hyperfocus, and ASD profile. Deployed on Cloud Run |
+| guios | Python · Gemini · SQLite · Telegram | Personal AI OS — multi-agent system with three-tier memory (episodic/medium-term/long-term), 22-table personal data warehouse (maps, fitness, WhatsApp, finances), Telegram interface |
 
 ---
 
 ## Background
 
 **2013–2019 — Cicor Factoring**
-Credit risk analyst. Prospecting, receivables evaluation, default scoring. All manual. Built statistical intuition from years of watching patterns in financial data that nobody was modeling properly.
+Credit risk analyst. Six years evaluating receivables and default risk by hand. Built the statistical intuition that later became the credit scoring system.
 
 **2019–2023 — Duplify (co-founder)**
-Rebuilt the factoring management system from scratch. Automated the entire workflow — receivables import, payment requests, credit scoring, portfolio monitoring. Deployed XGBoost/Random Forest models for credit risk on CNPJ data. First ML in production. Offered a Master's position at Unicamp based on the credit risk project — declined due to bureaucracy, not merit.
+Rebuilt the entire factoring management system from zero — receivables import, payment requests, real-time credit scoring, portfolio monitoring. Deployed XGBoost/Random Forest for credit risk on CNPJ data. Survival analysis (Kaplan-Meier, Cox model) for default time-to-event modeling. Offered a Master's position at Unicamp based on this project — declined due to bureaucracy.
 
 **2023–present — bee6 (CTO & Data Scientist)**
-Built and shipped:
-- Restaurant analytics pipeline integrating Toast POS, MarginEdge, ADP payroll, and Resy reservations for Berimbau Brazilian Table (NYC)
-- RAG system for a law firm (Maxsuel & Rodrigues) — document intelligence over PDFs, audio, video, and spreadsheets
-- Real estate ML system for a broker (Bid Brokers) — KNN matching + pricing model
-- Agricultural terrain scouting AI for São Paulo's 2023 urban densification plan
+- **Berimbau Brazilian Table (NYC)** — restaurant analytics integrating Toast POS, MarginEdge, ADP, Resy
+- **Maxsuel & Rodrigues** — document intelligence RAG for a law firm; Whisper transcription pipeline
+- **Bid Brokers** — real estate KNN matching engine and pricing model
+- **Solo Inteligente** — terrain scouting AI for São Paulo's 2023 urban densification plan
+- **Una Edu** — adaptive education platform for autistic students
 
 ---
 
