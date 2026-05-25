@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Guilherme%20Ciccarelli&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%26%20AI%20Systems%20Builder%20%E2%80%94%20S%C3%A3o%20Paulo&descAlignY=60&descColor=8b949e&v=2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Guilherme%20Ciccarelli&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%26%20AI%20Systems%20Builder%20%E2%80%94%20S%C3%A3o%20Paulo&descAlignY=60&descColor=8b949e&v=3" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Turning+messy+data+into+decisions.;Building+AI+that+works+for+real+people.;From+credit+risk+to+AI+agents+%E2%80%94+12+years+in+the+data.&v=2)](https://github.com/Guicicca90)
 
