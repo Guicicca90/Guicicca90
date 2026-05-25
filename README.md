@@ -115,7 +115,7 @@ Rebuilt the entire factoring management system from zero — receivables import,
 
 ## Education
 
-**USP** — Bachelor's in Social Sciences (in progress, FFLCH)
+**USP** — Bachelor's in Social Sciences (FFLCH)
 Quantitative methods, sampling design, and fieldwork for socioeconomic research.
 Co-founded the Social Research Junior Institute — ran surveys and data collection for Professor Gustavo Venturi's social impact studies.
 The statistical foundation that later moved into finance, econometrics, and ML.
