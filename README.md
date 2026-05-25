@@ -40,11 +40,11 @@ I am also the father of an autistic child — which is why I built [una-edu](htt
 
 | Project | Stack | About |
 |---------|-------|-------|
-| risco-credito-ml | Python · XGBoost · survival analysis | Credit risk engine for Cicor Factoring — ACIUM rule-based scoring, Kaplan-Meier survival curves, Cox proportional hazard model for default probability on Brazilian CNPJ data |
-| berimbau-analytics | Python · BigQuery · Toast · ADP | Full analytics pipeline for Berimbau Brazilian Table (NYC) — integrates Toast POS, MarginEdge food costs, ADP payroll, and Resy reservations into a unified data warehouse |
-| maxsuel-rag | Python · Whisper · FAISS · OpenAI | Document intelligence for a law firm — ingests PDFs, audio, video, spreadsheets; transcribes with Whisper; builds RAG pipeline for querying the full document base and generating legal filings |
-| una-edu | Python · OpenAI · FastAPI · GCP | Multi-agent pipeline for autistic students: Researcher → Neuro-educational Adapter → Art Director → HTML Renderer. Print-ready A4 materials personalized by grade, hyperfocus, and ASD profile. Deployed on Cloud Run |
-| guios | Python · Gemini · SQLite · Telegram | Personal AI OS — multi-agent system with three-tier memory (episodic/medium-term/long-term), 22-table personal data warehouse (maps, fitness, WhatsApp, finances), Telegram interface |
+| [risco-credito-ml](https://github.com/Guicicca90/risco-credito-ml) | Python · XGBoost · survival analysis | Credit risk engine for Cicor Factoring — ACIUM rule-based scoring, Kaplan-Meier survival curves, Cox proportional hazard model for default probability on Brazilian CNPJ data |
+| [berimbau-analytics](https://github.com/Guicicca90/berimbau-analytics) | Python · BigQuery · Toast · ADP | Full analytics pipeline for Berimbau Brazilian Table (NYC) — integrates Toast POS, MarginEdge food costs, ADP payroll, and Resy reservations into a unified data warehouse |
+| [maxsuel-rag](https://github.com/Guicicca90/maxsuel-rag) | Python · Whisper · FAISS · OpenAI | Document intelligence for a law firm — ingests PDFs, audio, video, spreadsheets; transcribes with Whisper; builds RAG pipeline for querying the full document base and generating legal filings |
+| [una-edu](https://github.com/Guicicca90/una-edu) | Python · OpenAI · FastAPI · GCP | Multi-agent pipeline for autistic students: Researcher → Neuro-educational Adapter → Art Director → HTML Renderer. Print-ready A4 materials personalized by grade, hyperfocus, and ASD profile. Deployed on Cloud Run |
+| [guios](https://github.com/Guicicca90/guios) | Python · Gemini · SQLite · Telegram | Personal AI OS — multi-agent system with three-tier memory (episodic/medium-term/long-term), 22-table personal data warehouse (maps, fitness, WhatsApp, finances), Telegram interface |
 
 ---
 
