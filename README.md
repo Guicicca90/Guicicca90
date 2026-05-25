@@ -2,13 +2,25 @@
 
 <div align="center">
 
-# Guilherme Ciccarelli
+<br>
 
-### Data Scientist & AI Systems Builder — São Paulo
+<h1>Guilherme Ciccarelli</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Turning+messy+data+into+decisions.;Building+AI+that+works+for+real+people.;From+credit+risk+to+AI+agents+%E2%80%94+12+years+in+the+data.&v=3)](https://github.com/Guicicca90)
+<p>
+  <img src="https://img.shields.io/badge/Data%20Scientist-0d1117?style=flat-square&logoColor=58a6ff&color=0d1117&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/AI%20Systems%20Builder-0d1117?style=flat-square&color=0d1117&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/São%20Paulo%2C%20Brazil-0d1117?style=flat-square&logo=googlemaps&logoColor=58a6ff&color=0d1117&labelColor=1a1a2e" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Guicicca90&color=58a6ff&style=flat-square&label=profile+views)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Turning+messy+data+into+decisions.;Building+AI+that+works+for+real+people.;From+credit+risk+to+AI+agents+%E2%80%94+12+years+in+the+data.&v=3)](https://github.com/Guicicca90)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ciccarelli-068615308/)
+[![bee6](https://img.shields.io/badge/bee6.com.br-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://bee6.com.br)
+![Profile Views](https://komarev.com/ghpvc/?username=Guicicca90&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br><br>
 
 </div>
 
@@ -32,38 +44,126 @@ I am also the father of an autistic child — which is why I built [una-edu](htt
 
 ### Open source
 
-| Project | Stack | About |
-|---------|-------|-------|
-| [bquant](https://github.com/Guicicca90/bquant) | Python · statsmodels · BigQuery | Quantitative research toolkit — ADF/KPSS stationarity, ARIMA, ARCH-LM volatility, FipeZAP/Selic/IPCA macro pipelines, B3/CVM data ingestion, KD-Tree spatial joins |
-| [urban-space](https://github.com/Guicicca90/urban-space) | Python · scikit-learn · GeoSampa | Real estate ML — KNN property matching engine, multilevel pricing model integrating IPTU + RAIS + 10 macro indicators, PCA terrain scouting over 11M+ São Paulo parcels, IPTU lead mining |
-| [solo-inteligente](https://github.com/Guicicca90/solo-inteligente) | Python · FAISS · LLM | Agricultural AI — automates the "perdigueiro" (manual land scout) process for São Paulo's 2023 densification plan; FAISS vector store over INCRA/CAR/SIGEF documents |
+<table>
+<tr>
+<td width="200"><b><a href="https://github.com/Guicicca90/bquant">bquant</a></b></td>
+<td>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
+![statsmodels](https://img.shields.io/badge/statsmodels-0d1117?style=flat-square&logoColor=58a6ff)
+![BigQuery](https://img.shields.io/badge/BigQuery-0d1117?style=flat-square&logo=googlebigquery&logoColor=58a6ff)
+
+Quantitative research toolkit — ADF/KPSS stationarity, ARIMA, ARCH-LM volatility, FipeZAP/Selic/IPCA macro pipelines, B3/CVM data ingestion, KD-Tree spatial joins
+</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Guicicca90/urban-space">urban-space</a></b></td>
+<td>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=58a6ff)
+![GeoSampa](https://img.shields.io/badge/GeoSampa-0d1117?style=flat-square&logoColor=58a6ff)
+
+Real estate ML — KNN property matching engine, multilevel pricing model integrating IPTU + RAIS + 10 macro indicators, PCA terrain scouting over 11M+ São Paulo parcels
+</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Guicicca90/solo-inteligente">solo-inteligente</a></b></td>
+<td>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
+![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=flat-square&logoColor=58a6ff)
+![LLM](https://img.shields.io/badge/LLM-0d1117?style=flat-square&logo=openai&logoColor=58a6ff)
+
+Agricultural AI — automates the "perdigueiro" process for São Paulo's 2023 densification plan; FAISS vector store over INCRA/CAR/SIGEF documents
+</td>
+</tr>
+</table>
 
 ### Client & private work
 
-| Project | Stack | About |
-|---------|-------|-------|
-| [risco-credito-ml](https://github.com/Guicicca90/risco-credito-ml) | Python · XGBoost · survival analysis | Credit risk engine for Cicor Factoring — ACIUM rule-based scoring, Kaplan-Meier survival curves, Cox proportional hazard model for default probability on Brazilian CNPJ data |
-| [berimbau-analytics](https://github.com/Guicicca90/berimbau-analytics) | Python · BigQuery · Toast · ADP | Full analytics pipeline for Berimbau Brazilian Table (NYC) — integrates Toast POS, MarginEdge food costs, ADP payroll, and Resy reservations into a unified data warehouse |
-| [maxsuel-rag](https://github.com/Guicicca90/maxsuel-rag) | Python · Whisper · FAISS · OpenAI | Document intelligence for a law firm — ingests PDFs, audio, video, spreadsheets; transcribes with Whisper; builds RAG pipeline for querying the full document base and generating legal filings |
-| [una-edu](https://github.com/Guicicca90/una-edu) | Python · OpenAI · FastAPI · GCP | Multi-agent pipeline for autistic students: Researcher → Neuro-educational Adapter → Art Director → HTML Renderer. Print-ready A4 materials personalized by grade, hyperfocus, and ASD profile. Deployed on Cloud Run |
-| [guios](https://github.com/Guicicca90/guios) | Python · Gemini · SQLite · Telegram | Personal AI OS — multi-agent system with three-tier memory (episodic/medium-term/long-term), 22-table personal data warehouse (maps, fitness, WhatsApp, finances), Telegram interface |
+<table>
+<tr>
+<td width="200"><b><a href="https://github.com/Guicicca90/una-edu">una-edu</a></b> 🔒</td>
+<td>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=58a6ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=58a6ff)
+![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=58a6ff)
+
+Multi-agent pipeline for autistic students: Researcher → Neuro-educational Adapter → Art Director → HTML Renderer. Print-ready A4 materials personalized by grade, hyperfocus, and ASD profile. Deployed on Cloud Run.
+</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Guicicca90/risco-credito-ml">risco-credito-ml</a></b> 🔒</td>
+<td>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
+![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logoColor=58a6ff)
+
+Credit risk engine for Cicor Factoring — ACIUM rule-based scoring, Kaplan-Meier survival curves, Cox proportional hazard model for default probability on Brazilian CNPJ data
+</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Guicicca90/berimbau-analytics">berimbau-analytics</a></b> 🔒</td>
+<td>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
+![BigQuery](https://img.shields.io/badge/BigQuery-0d1117?style=flat-square&logo=googlebigquery&logoColor=58a6ff)
+
+Full analytics pipeline for Berimbau Brazilian Table (NYC) — integrates Toast POS, MarginEdge food costs, ADP payroll, and Resy reservations into a unified data warehouse
+</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Guicicca90/maxsuel-rag">maxsuel-rag</a></b> 🔒</td>
+<td>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
+![Whisper](https://img.shields.io/badge/Whisper-0d1117?style=flat-square&logo=openai&logoColor=58a6ff)
+![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=flat-square&logoColor=58a6ff)
+
+Document intelligence for a law firm — ingests PDFs, audio, video, spreadsheets; transcribes with Whisper; RAG pipeline for querying the full document base and generating legal filings
+</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Guicicca90/guios">guios</a></b> 🔒</td>
+<td>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
+![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=google&logoColor=58a6ff)
+![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=58a6ff)
+
+Personal AI OS — multi-agent system with three-tier memory (episodic/medium-term/long-term), 22-table personal data warehouse (maps, fitness, WhatsApp, finances), Telegram interface
+</td>
+</tr>
+</table>
 
 ---
 
 ## Background
 
-**2013–2019 — Cicor Factoring**
-Credit risk analyst. Six years evaluating receivables and default risk by hand. Built the statistical intuition that later became the credit scoring system.
+<table>
+<tr>
+<td width="160"><b>2013–2019</b><br><sub>Cicor Factoring</sub></td>
+<td>Credit risk analyst. Six years evaluating receivables and default risk by hand. Built the statistical intuition that later became the credit scoring system.</td>
+</tr>
+<tr>
+<td><b>2019–2023</b><br><sub>Duplify · co-founder</sub></td>
+<td>Rebuilt the entire factoring management system from zero. XGBoost/Random Forest for credit risk on CNPJ data. Survival analysis (Kaplan-Meier, Cox model) for default time-to-event modeling. Offered a Master's position at Unicamp — declined due to bureaucracy.</td>
+</tr>
+<tr>
+<td><b>2023–present</b><br><sub>bee6 · CTO</sub></td>
+<td>
 
-**2019–2023 — Duplify (co-founder)**
-Rebuilt the entire factoring management system from zero — receivables import, payment requests, real-time credit scoring, portfolio monitoring. Deployed XGBoost/Random Forest for credit risk on CNPJ data. Survival analysis (Kaplan-Meier, Cox model) for default time-to-event modeling. Offered a Master's position at Unicamp based on this project — declined due to bureaucracy.
-
-**2023–present — bee6 (CTO & Data Scientist)**
-- **Berimbau Brazilian Table (NYC)** — restaurant analytics integrating Toast POS, MarginEdge, ADP, Resy
-- **Maxsuel & Rodrigues** — document intelligence RAG for a law firm; Whisper transcription pipeline
-- **Bid Brokers** — real estate KNN matching engine and pricing model
-- **Solo Inteligente** — terrain scouting AI for São Paulo's 2023 urban densification plan
+- **Berimbau Brazilian Table (NYC)** — restaurant analytics: Toast POS, MarginEdge, ADP, Resy
+- **Maxsuel & Rodrigues** — document intelligence RAG; Whisper transcription pipeline
+- **Bid Brokers** — real estate KNN matching + pricing model
+- **Solo Inteligente** — terrain scouting AI for São Paulo's 2023 densification plan
 - **Una Edu** — adaptive education platform for autistic students
+</td>
+</tr>
+</table>
 
 ---
 
@@ -125,7 +225,5 @@ The statistical foundation that later moved into finance, econometrics, and ML.
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
-
+<sub>📍 São Paulo · bee6.com.br · open to consulting & collaboration</sub>
 </div>
