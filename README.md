@@ -7,12 +7,12 @@
 <h1>Guilherme Ciccarelli</h1>
 
 <p>
-  <img src="https://img.shields.io/badge/Data%20Scientist-0d1117?style=flat-square&logoColor=58a6ff&color=0d1117&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/AI%20Systems%20Builder-0d1117?style=flat-square&color=0d1117&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/São%20Paulo%2C%20Brazil-0d1117?style=flat-square&logo=googlemaps&logoColor=58a6ff&color=0d1117&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Data%20Scientist-1a1a2e?style=flat-square&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/AI%20Systems%20Builder-1a1a2e?style=flat-square" />
+  <img src="https://img.shields.io/badge/São%20Paulo%2C%20Brazil-1a1a2e?style=flat-square&logo=googlemaps&logoColor=58a6ff" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Turning+messy+data+into+decisions.;Building+AI+that+works+for+real+people.;From+credit+risk+to+AI+agents+%E2%80%94+12+years+in+the+data.&v=3)](https://github.com/Guicicca90)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Turning+messy+data+into+decisions.;Building+AI+that+works+for+real+people.;From+credit+risk+to+AI+agents+%E2%80%94+12+years+in+the+data.&v=4)](https://github.com/Guicicca90)
 
 <br>
 
@@ -46,14 +46,15 @@ I am also the father of an autistic child — which is why I built [una-edu](htt
 
 <table>
 <tr>
-<td width="200"><b><a href="https://github.com/Guicicca90/bquant">bquant</a></b></td>
+<td width="180"><b><a href="https://github.com/Guicicca90/una-edu">una-edu</a></b></td>
 <td>
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
-![statsmodels](https://img.shields.io/badge/statsmodels-0d1117?style=flat-square&logoColor=58a6ff)
-![BigQuery](https://img.shields.io/badge/BigQuery-0d1117?style=flat-square&logo=googlebigquery&logoColor=58a6ff)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=58a6ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=58a6ff)
+![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=58a6ff)
 
-Quantitative research toolkit — ADF/KPSS stationarity, ARIMA, ARCH-LM volatility, FipeZAP/Selic/IPCA macro pipelines, B3/CVM data ingestion, KD-Tree spatial joins
+Multi-agent pipeline for autistic students: Researcher → Neuro-educational Adapter → Art Director → HTML Renderer. Print-ready A4 materials personalized by grade, hyperfocus theme, and ASD profile. Deployed on Cloud Run.
 </td>
 </tr>
 <tr>
@@ -78,25 +79,24 @@ Real estate ML — KNN property matching engine, multilevel pricing model integr
 Agricultural AI — automates the "perdigueiro" process for São Paulo's 2023 densification plan; FAISS vector store over INCRA/CAR/SIGEF documents
 </td>
 </tr>
+<tr>
+<td><b><a href="https://github.com/Guicicca90/bquant">bquant</a></b></td>
+<td>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
+![statsmodels](https://img.shields.io/badge/statsmodels-0d1117?style=flat-square&logoColor=58a6ff)
+![BigQuery](https://img.shields.io/badge/BigQuery-0d1117?style=flat-square&logo=googlebigquery&logoColor=58a6ff)
+
+Quantitative research toolkit — ADF/KPSS stationarity, ARIMA, ARCH-LM volatility, FipeZAP/Selic/IPCA macro pipelines, B3/CVM data ingestion, KD-Tree spatial joins
+</td>
+</tr>
 </table>
 
 ### Client & private work
 
 <table>
 <tr>
-<td width="200"><b><a href="https://github.com/Guicicca90/una-edu">una-edu</a></b> 🔒</td>
-<td>
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=58a6ff)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=58a6ff)
-![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=58a6ff)
-
-Multi-agent pipeline for autistic students: Researcher → Neuro-educational Adapter → Art Director → HTML Renderer. Print-ready A4 materials personalized by grade, hyperfocus, and ASD profile. Deployed on Cloud Run.
-</td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/Guicicca90/risco-credito-ml">risco-credito-ml</a></b> 🔒</td>
+<td width="180"><b><a href="https://github.com/Guicicca90/risco-credito-ml">risco-credito-ml</a></b> 🔒</td>
 <td>
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
@@ -145,7 +145,7 @@ Personal AI OS — multi-agent system with three-tier memory (episodic/medium-te
 
 <table>
 <tr>
-<td width="160"><b>2013–2019</b><br><sub>Cicor Factoring</sub></td>
+<td width="170"><b>2013–2019</b><br><sub>Cicor Factoring</sub></td>
 <td>Credit risk analyst. Six years evaluating receivables and default risk by hand. Built the statistical intuition that later became the credit scoring system.</td>
 </tr>
 <tr>
