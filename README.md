@@ -240,12 +240,6 @@ Personal AI OS — multi-agent system with three-tier memory (episodic/medium-te
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guicicca90&theme=github_dark&v=2" width="100%" />
-
-</div>
-
-<div align="center">
-
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guicicca90&theme=github_dark&v=2" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guicicca90&theme=github_dark&v=2" />
 
