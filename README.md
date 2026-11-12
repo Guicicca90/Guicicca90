@@ -26,6 +26,56 @@
 
 ---
 
+## Where my commits are
+
+> **The contribution graph on this profile shows only a small part of my work.**
+> My work at bee6 is in the private `bee6organization` org. It is committed under the company's shared deploy identity (`bee6-admin`), which the production pipeline on Vercel depends on, so GitHub doesn't count it here.
+
+<div align="center">
+
+![commits](https://img.shields.io/badge/3%2C800%2B_commits-last_12_months-0d1117?style=for-the-badge&labelColor=58a6ff)
+![repos](https://img.shields.io/badge/60%2B_private_repos-bee6organization-0d1117?style=for-the-badge&labelColor=58a6ff)
+![prod](https://img.shields.io/badge/40%2B_apps_%26_sites-in_production-0d1117?style=for-the-badge&labelColor=58a6ff)
+
+</div>
+
+What I built and run at bee6, end to end (design → code → deploy → ops):
+
+<table>
+<tr>
+<td width="200"><b>beeSys</b><br><sub><a href="https://sys.bee6.com.br">sys.bee6.com.br</a> 🔒</sub></td>
+<td>bee6's internal operating system. It has an outbound prospecting engine (lead enrichment, LLM-written cold email with deterministic validators), an LLM proposal generator with pricing rules, bank reconciliation (Cora API) and invoicing, plus an MCP server so Claude agents can work on company data.<br><sub>TypeScript · Next.js · Postgres · LLM pipelines · MCP</sub></td>
+</tr>
+<tr>
+<td><b>Berimbau back office</b><br><sub>restaurant group, NYC 🔒</sub></td>
+<td>Management platform for a restaurant group. It pulls POS, food cost, payroll and reservation data into BigQuery and covers marketing review, Meta Ads automation, digital asset management, and finance entry.<br><sub>TypeScript · Python · BigQuery · Vercel</sub></td>
+</tr>
+<tr>
+<td><b>Duplinet · Cicor</b><br><sub><a href="https://www.cicor.com.br">cicor.com.br</a></sub></td>
+<td>Hosted app for a factoring company: client onboarding and receivables registration, plus the company's server-side integrations. This is the credit risk background, now shipped as product.<br><sub>TypeScript · Python · Firebase Auth · Vercel</sub></td>
+</tr>
+<tr>
+<td><b>maxBot</b><br><sub>law firm 🔒</sub></td>
+<td>RAG over a law firm's whole case base (PDF, audio, video), with anti-hallucination guards and generation of legal documents in the firm's own template.<br><sub>Python · Whisper · vector search · LLM</sub></td>
+</tr>
+<tr>
+<td><b>Una Edu · UnaSys</b><br><sub><a href="https://www.unaedu.com.br">unaedu.com.br</a></sub></td>
+<td>The production side of <a href="https://github.com/Guicicca90/una-edu">una-edu</a>: a school-facing system that generates adapted A4 material for neurodivergent students.<br><sub>Python · multi-agent LLM · GCP</sub></td>
+</tr>
+<tr>
+<td><b>Client platforms</b></td>
+<td>An admin panel and a site for a real-estate brand (<a href="https://cazokhalix.com.br">Cazo Khalix</a>), an internal ops app for a sleepwear e-commerce brand (<a href="https://www.thepimashop.com">The Pima Shop</a>, Shopify), and sites in production for industrial and service clients (<a href="https://www.projectlaser.com.br">Project Laser</a>, <a href="https://www.protectair.com.br">Protect Air</a>) and for bee6 itself (<a href="https://bee6.com.br">bee6.com.br</a>).<br><sub>Next.js · Firebase · Shopify API · Vercel</sub></td>
+</tr>
+<tr>
+<td><b>AI engineering tooling</b> 🔒</td>
+<td>The company's Claude Code setup: shared skills, project context, pre-commit review gates and MCP servers. They let a small team ship across 60+ repos.<br><sub>Claude Code · MCP · Python</sub></td>
+</tr>
+</table>
+
+<sub>Code for private repos is available on request in an interview setting.</sub>
+
+---
+
 ## Who I am
 
 I spent 6 years doing credit risk analysis at a factoring company. Manual work — prospecting clients, evaluating receivables, assessing default risk from gut feeling and spreadsheets. I got bored. I knew the job could be automated. So in 2019 I co-founded **Duplify** with two friends to rebuild the entire factoring system from scratch.
