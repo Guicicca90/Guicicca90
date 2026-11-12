@@ -236,29 +236,6 @@ Personal AI OS — multi-agent system with three-tier memory (episodic/medium-te
 
 ---
 
-## Stats
-
-<div align="center">
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guicicca90&theme=github_dark&v=2" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guicicca90&theme=github_dark&v=2" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Guicicca90&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&v=2" />
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Guicicca90/Guicicca90/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
-
----
-
 ## Education
 
 **USP** — Bachelor's in Social Sciences (FFLCH)
